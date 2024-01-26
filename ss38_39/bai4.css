@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    transition: background-color 0.5s ease-in-out;
+}
+
+.container {
+    text-align: center;
+}
+
+.joke {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
